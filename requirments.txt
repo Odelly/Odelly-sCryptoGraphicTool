@@ -1,0 +1,12 @@
+pycrypto
+Crypto.Cipher
+cryptography.fernet
+Crypto.Protocol.KDF
+Crypto
+Crypto.Hash
+Crypto.Util
+platform
+sys
+win_unicode_console
+os
+colorama

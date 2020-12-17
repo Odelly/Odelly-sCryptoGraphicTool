@@ -1,0 +1,2 @@
+terminal - path/python3 encrypt.py
+
